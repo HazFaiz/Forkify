@@ -1,5 +1,5 @@
 "# Forkify" 
-A simple recipe and food search app made using vanilla JS and NPM. The following features are;
+A simple recipe and food search app made using Javascript, WebPack and Babel. The following features are;
 -Recipe search
 -Ingredient and measurement breakdowns
 -Shopping list
